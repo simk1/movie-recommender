@@ -6,7 +6,7 @@ This project implements a simple movie recommender system using Surprise, a Pyth
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/simk1/recommender-system.git
+   git clone https://github.com/simk1/movie-recommender.git
    cd recommender-system
    
 2. Create and activate a virtual environment:
